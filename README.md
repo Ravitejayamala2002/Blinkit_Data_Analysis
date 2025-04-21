@@ -44,11 +44,5 @@ Power BI Desktop: Download here
 
 CSV Data File: Available in the repository or replace with your own dataset.
 
-## Installation
-Clone the repository:
-git clone https://github.com/your-username/Blinkit-Data-Analysis.git
-Open the .pbix file in Power BI Desktop.
-
-Load the CSV file in Power BI via Home > Get Data > CSV.
 
 

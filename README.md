@@ -1,6 +1,8 @@
 # Blinkit Data Analysis
 ## Overview
 This project performs data analysis on Blinkit’s dataset using Power BI. The data is extracted from a CSV file and visualized to generate insights on sales, customer behavior, and product performance.
+## Sample view
+![image](https://github.com/user-attachments/assets/2c8e8e95-d7fd-47a6-bc42-e6e2b757fad3)
 
 ## Business Problem
 The primary business problem being addressed is understanding the factors that influence sales performance, customer behavior, and product profitability for Blinkit. The goal is to:
